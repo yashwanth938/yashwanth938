@@ -15,7 +15,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Yaswanth Rongala</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer and data science from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanth938&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanth938" /> </p>
 
